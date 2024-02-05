@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/IComparableMaster/bin/Debug/net7.0/IComparableMaster
+/Users/macos/Desktop/Operator/IComparableMaster/bin/Debug/net7.0/IComparableMaster.deps.json
+/Users/macos/Desktop/Operator/IComparableMaster/bin/Debug/net7.0/IComparableMaster.runtimeconfig.json
+/Users/macos/Desktop/Operator/IComparableMaster/bin/Debug/net7.0/IComparableMaster.dll
+/Users/macos/Desktop/Operator/IComparableMaster/bin/Debug/net7.0/IComparableMaster.pdb
+/Users/macos/Desktop/Operator/IComparableMaster/obj/Debug/net7.0/IComparableMaster.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/IComparableMaster/obj/Debug/net7.0/IComparableMaster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/IComparableMaster/obj/Debug/net7.0/IComparableMaster.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/IComparableMaster/obj/Debug/net7.0/IComparableMaster.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/IComparableMaster/obj/Debug/net7.0/IComparableMaster.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/IComparableMaster/obj/Debug/net7.0/IComparableMaster.dll
+/Users/macos/Desktop/Operator/IComparableMaster/obj/Debug/net7.0/refint/IComparableMaster.dll
+/Users/macos/Desktop/Operator/IComparableMaster/obj/Debug/net7.0/IComparableMaster.pdb
+/Users/macos/Desktop/Operator/IComparableMaster/obj/Debug/net7.0/IComparableMaster.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/IComparableMaster/obj/Debug/net7.0/ref/IComparableMaster.dll
